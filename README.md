@@ -3,3 +3,5 @@
 # WIP
 
 This is the second version of the L2-EVMAN website.
+
+(Committing from 2 different computers)
